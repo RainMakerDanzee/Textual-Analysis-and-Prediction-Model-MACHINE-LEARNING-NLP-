@@ -1,1 +1,3 @@
-# Textual-Analysis-and-Prediction-Model-MACHINE-LEARNING-NLP-
+# Textual-Analysis-and-Prediction-Model-MACHINE-LEARNING-NLP
+
+This repository contains a Jupyter notebook detailing the development and evaluation of a machine learning model for Natural Language Processing. The project encompasses a full cycle of data preparation, model building using sequential neural networks with embedding layers, training, and validation, culminating in an evaluation with an accuracy of around 76%. I have also used visual plots for loss and accuracy, and thoughtful analysis on model performance, including discussions on overfitting and embedding layers' efficacy. This project demonstrates a rigorous approach to text data analysis and predictive modeling, making it a valuable reference for similar tasks in the field of NLP. We divide the work in small tasks and attempt to acheive them to see the overall "big" picture
